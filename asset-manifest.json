@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/portofolio-rahmad/static/css/main.f855e6bc.css",
-    "main.js": "/portofolio-rahmad/static/js/main.c085b959.js",
+    "main.css": "/portofolio-rahmad/static/css/main.692458c1.css",
+    "main.js": "/portofolio-rahmad/static/js/main.ce522bda.js",
     "static/js/453.d8154381.chunk.js": "/portofolio-rahmad/static/js/453.d8154381.chunk.js",
-    "static/media/logo.svg": "/portofolio-rahmad/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/portofolio-rahmad/index.html",
-    "main.f855e6bc.css.map": "/portofolio-rahmad/static/css/main.f855e6bc.css.map",
-    "main.c085b959.js.map": "/portofolio-rahmad/static/js/main.c085b959.js.map",
+    "main.692458c1.css.map": "/portofolio-rahmad/static/css/main.692458c1.css.map",
+    "main.ce522bda.js.map": "/portofolio-rahmad/static/js/main.ce522bda.js.map",
     "453.d8154381.chunk.js.map": "/portofolio-rahmad/static/js/453.d8154381.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.c085b959.js"
+    "static/css/main.692458c1.css",
+    "static/js/main.ce522bda.js"
   ]
 }
