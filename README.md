@@ -1,3 +1,10 @@
+## Desktop
+![image](https://github.com/user-attachments/assets/1bb0a539-39c0-46bf-bcad-eb83afa0e7e2)
+
+## Mobile
+![image](https://github.com/user-attachments/assets/25967bdd-fe3b-4138-80fa-c80abadab3e9)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
